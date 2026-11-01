@@ -9,5 +9,3 @@
     <img src="https://img.shields.io/badge/Saguaro-2026-000000?style=for-the-badge&logo=globe&logoColor=white" />
   </a>
 </div>
-
-<!-- Co-authored with Claude -->
