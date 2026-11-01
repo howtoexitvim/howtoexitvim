@@ -20,16 +20,6 @@
 
 <br />
 
-<p align="center">
-  <code>macOS</code> · <a href="https://github.com/howtoexitvim/typio">Typio</a> &nbsp;/&nbsp; <a href="https://github.com/howtoexitvim/Nib">Nib</a> &nbsp;/&nbsp; <a href="https://github.com/howtoexitvim/ImageDedupe">ImageDedupe</a>
-  <br />
-  <code>watchOS & iOS</code> · <a href="https://github.com/howtoexitvim/Enchant">Enchant</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <code>Extensions</code> · <a href="https://github.com/howtoexitvim/zotero-folder-import">Zotero</a> &nbsp;/&nbsp; <a href="https://github.com/howtoexitvim/chrome-history-by-date">Chrome</a>
-</p>
-
-<br />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/howtoexitvim/howtoexitvim/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/howtoexitvim/howtoexitvim/output/github-contribution-grid-snake.svg" />
